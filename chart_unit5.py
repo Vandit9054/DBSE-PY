@@ -8,3 +8,9 @@ p1.xlabel("number subject ")
 p1.ylabel("subject of marks")
 p1.show()
 
+hist   dekhav
+title    titlt apava
+scatter  ....
+bar        delhav
+plot(x,y,marker="*",MS="10")
+pie(x,)
